@@ -1,0 +1,18 @@
+site_name: P5, programación gráfica con Python
+site_author: Víctor R. Ruiz
+site_description: Tutorial de P5, adaptación de Processing a Python nativo
+copyright: "&copy; 2020 Víctor R. Ruiz - CC Atribución/Reconocimiento 4.0 Internacional"
+repo_url: https://github.com/vrruiz/p5-tutorial
+theme:
+  name: material
+  language: es
+  icon:
+    repo: fontawesome/brands/github-alt
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.highlight:
+      linenums: true 
+nav:
+  - Home: index.md
