@@ -1,6 +1,6 @@
-# Introducción a p5: Programación gráfica fácil con Python
+# Introducción a Plus5: Programación gráfica fácil con Python
 
-p5py es la implementación de Processing en Python nativo. Este es un tutorial de introducción.
+Plus5 es una implementación de las funciones gráficas de Processing en Python nativo. Este es un tutorial de introducción.
 
 # Requisitos
 
